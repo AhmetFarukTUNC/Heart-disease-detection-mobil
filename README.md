@@ -121,7 +121,7 @@ License
 
 This project is for educational purposes. All rights reserved by the developer.
 
-![Uygulama Ana Sayfa]((https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/1.png))
+![Uygulama Ana Sayfa](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/1.png)
 
 ![Uygulama Ana Sayfa](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/2.png)
 
