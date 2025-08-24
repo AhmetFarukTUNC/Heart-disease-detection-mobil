@@ -121,13 +121,13 @@ License
 
 This project is for educational purposes. All rights reserved by the developer.
 
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
-
+![Uygulama Ana Sayfa](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/1.png)
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/1.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/2.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/3.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/4.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/5.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/6.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/7.png))
+![Uygulama Ana Sayfa]([https://example.com/images/homepage.png](https://github.com/AhmetFarukTUNC/Heart-disease-detection-mobil/blob/main/img/8.png))
 
