@@ -120,3 +120,14 @@ Predictions are based on the Random Forest model; results are for informational 
 License
 
 This project is for educational purposes. All rights reserved by the developer.
+
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+![Uygulama Ana Sayfa](https://example.com/images/homepage.png)
+
+
